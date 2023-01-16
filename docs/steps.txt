@@ -1,0 +1,4 @@
+## creating the env ##
+1)pip install  virtualenv
+2)virtualenv wafer-env [env-name]
+3)wafer-env\scripts\activate [wafer-env\scripts\deactivate]
